@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Running  [Week1](Week1.html)  [Week2](Week2.html) [Week3](Week3.html) [Week4](Week4.html)
+Running  [Week1](Run/Week1/week1.html)  [Week2](Run/Week2/week2.html) [Week3](Run/Week3/week3.html) [Week4](Run/Week4/week4.html)
 
 You can use the [editor on GitHub](https://github.com/leyalutik/choirmaster/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
