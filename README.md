@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Давайте бежать!
 
 Running  [Week1](Run/Week1/week1.html)  [Week2](Run/Week2/week2.html) [Week3](Run/Week3/week3.html) [Week4](Run/Week4/week4.html)
 
